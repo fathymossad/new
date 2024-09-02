@@ -1,7 +1,0 @@
-## fathymossad
-
-fathy
-
-#### License
-
-mit
